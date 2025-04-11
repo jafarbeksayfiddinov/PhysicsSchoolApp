@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134427894889",
+    "project_id": "physicsschoolapp",
+    "storage_bucket": "physicsschoolapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134427894889:android:2e667bbb54b7f9be19eef8",
+        "android_client_info": {
+          "package_name": "com.example.physicsschoolapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rZ_qD9BeCNi3_8RfAQx8Z6iQ6Ksu6H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
