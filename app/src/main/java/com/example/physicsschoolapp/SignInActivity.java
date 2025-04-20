@@ -54,7 +54,7 @@ public class SignInActivity extends AppCompatActivity {
 
     private static void initialData() {
         DatabaseReference db = instance.getReference("Users");
-        User user = new User("Jafarbek", "Sayfiddinov", "jafarbeksayfiddinov@gmail.com", "123456", ROLE_ENUM.STUDENT);
+        User user = new User("Jafarbek", "Sayfiddinov", "jafarbeksayfiddinov@gmail.com", "123456",ROLE_ENUM.STUDENT);
 
         db.child(user.getId().toString()).setValue(user);
     }
